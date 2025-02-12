@@ -1,8 +1,8 @@
 {
-  "Header1": "MyIT Sample Application",
+  "Header1": "IT Sample Application",
   "Header2": "Discover the power of Docusign APIs and how they can be used in the IT industry.",
-  "Footer1": "Docusign: Bringing Agreements to Life",
-  "Footer2": "<div style='white-space: nowrap;'><span style='margin-left: -100%; margin-right: -100%; text-align: center;'>Docusign helps organizations connect and automate how they prepare, sign, act on, and manage agreements.</span></div>",
+  "Footer1": " ",
+  "Footer2": "<div style='white-space: nowrap;'><span style='margin-left: -100%; margin-right: -100%; text-align: center;'> </span></div>",
   "SandBoxButton": "Create Developer Account",
   "LearnMoreButton": "Learn More",
   "Card1": {
