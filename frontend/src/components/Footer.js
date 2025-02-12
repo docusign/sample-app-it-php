@@ -6,7 +6,7 @@ export const Footer = () => {
   return (
     <footer role="contentinfo" className="footer pt-2 pb-2">
       <div className="container">
-        <span className="copyright">{t('Copyright')}</span>
+        <span className="copyright">{t(' ')}</span>
       </div>
     </footer>
   );
