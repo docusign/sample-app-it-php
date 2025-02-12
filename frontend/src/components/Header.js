@@ -38,7 +38,7 @@ export const Header = () => {
               <li className="nav-item">
                 <a
                   className="nav-link"
-                  href="https://github.com/docusign/sample-app-myit-php"
+                  href="https://github.com/docusign/sample-app-it-php"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

@@ -1,10 +1,10 @@
-# MyIT Sample Application: PHP and React
+# IT Sample Application: PHP and React
 
 ## Introduction
 
-MyIT is a Docusign sample application written in PHP (server) and React (client).
+The IT sample app is a Docusign sample application written in PHP (server) and React (client).
 
-MyIT demonstrates the following:
+The IT sample app demonstrates the following:
 
 1. **Authentication** with Docusign via [JSON Web Token (JWT) Grant](https://developers.docusign.com/platform/auth/jwt/).
 2. **Bulk send of multiple envelopes:**

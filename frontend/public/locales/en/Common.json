@@ -1,7 +1,6 @@
 {
-  "ApplicationName": "My IT",
+  "ApplicationName": "IT Sample Application",
   "GitHubLink": "GitHub Source",
-  "Copyright": "© 2024 Docusign Inc.",
   "LoaderMessage": "Please wait, operation is in progress...",
   "ApiDecription": {
     "Title": "Behind the scenes",

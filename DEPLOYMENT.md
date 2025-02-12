@@ -1,8 +1,8 @@
 # Introduction
-MyIT Sample App
+IT Sample App
 
 # License information
-This repository uses the MIT License. See [LICENSE](https://github.com/docusign/sample-app-myit-php/blob/main/LICENSE) for more information.
+This repository uses the MIT License. See [LICENSE](https://github.com/docusign/sample-app-it-php/blob/main/LICENSE) for more information.
 
 
 
