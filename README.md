@@ -21,7 +21,7 @@ The IT sample app demonstrates the following:
   This [**video**](https://www.youtube.com/watch?v=GgDqa7-L0yo) demonstrates how to create an integration key (client ID) for a user application like this example.
 - Add redirect URI `{ PROTOCOL }://{ DOMAIN }/callback`
 - Create [permission profiles](https://admindemo.docusign.com/authenticate?goTo=roles) with names: Admin, Manager and Employee
-- [PHP 8.3](https://www.php.net/downloads.php)
+- [PHP 8.3.36](https://www.php.net/downloads.php)
 - [Docker](https://www.docker.com/) installed and configured in your machine.
 - [Composer](https://getcomposer.org/download/) set up in your PATH environment variable so you can invoke it from any folder.
 

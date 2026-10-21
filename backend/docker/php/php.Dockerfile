@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 php:8.3-fpm
+FROM --platform=linux/amd64 php:8.3.36-fpm
 
 RUN apt-get update && apt-get install -y \
 		libfreetype6-dev \
