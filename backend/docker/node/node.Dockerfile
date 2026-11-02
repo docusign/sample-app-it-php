@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 node:16-buster-slim
+FROM --platform=linux/amd64 node:22.23.4-slim
 
 WORKDIR /var/www/html
 

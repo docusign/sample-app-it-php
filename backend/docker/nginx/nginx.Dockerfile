@@ -25,7 +25,7 @@ RUN composer install --ignore-platform-reqs --no-dev
 RUN php artisan cache:clear
 
 
-FROM --platform=linux/amd64 nginx:1.21.6-alpine
+FROM --platform=linux/amd64 nginx:1.27-alpine
 COPY docker/nginx/http.conf /etc/nginx/conf.d/default.conf
 RUN set -x ; \
   addgroup -g 82 -S www-data ; \
